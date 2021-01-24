@@ -14,7 +14,7 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ### Demo
-Check out the live demo: https://mrswsa.herokuapp.com/
+Check out the live demo: 
 ![GIF](./static/gif.gif)
 
 ---
