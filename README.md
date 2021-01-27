@@ -60,7 +60,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ---
 
-### Author Info
+### Author's Info
 
 - Twitter - [@taronic777](https://twitter.com/taronic777)
 - linkedIn - [Tarun Yadav](https://www.linkedin.com/in/tarun-yadav-47442112b/)
